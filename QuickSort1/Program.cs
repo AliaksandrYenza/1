@@ -72,6 +72,6 @@ namespace QuickSort
                 {
                     return new CaseInsensitiveComparer().Compare(secondElement, firstElement);
                 }
-            }
+            } 
         }
     }
